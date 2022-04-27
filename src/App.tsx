@@ -1,4 +1,4 @@
-import { Navigation } from "./component/routes/Navigation";
+import { Navigation } from "./routes/Navigation";
 import logo from "./logo.svg";
 
 function App() {
